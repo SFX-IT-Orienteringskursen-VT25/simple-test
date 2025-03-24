@@ -3,7 +3,6 @@
    This should install a lot of files under "node_modules" folder.
 3. > npm test
    Expected output:
-        C:\SFX-O\simple-test>npm test
         
         > persisted@1.0.0 test
         > jest
