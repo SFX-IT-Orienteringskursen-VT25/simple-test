@@ -1,7 +1,9 @@
 1. Navigate to the folder where the index.html file is in a CLI of your choice (cmd/PowerShell/GitBash/...)
 2. > npm install
+   
    This should install a lot of files under "node_modules" folder.
 3. > npm test
+   
    Expected output:
         
         > persisted@1.0.0 test
